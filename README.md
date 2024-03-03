@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-end Developer and Java Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<br>
+
 
 
 - 🌱 I’m currently learning **react,DBMS,node.js**
