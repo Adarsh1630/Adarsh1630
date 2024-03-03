@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Sharma</h1>
 <h3 align="center">A passionate Front-end Developer and Java Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 
 
 
@@ -16,6 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh1630&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh1630" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh1630" alt="adarsh1630" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
 <h3 align="left">Connect with me:</h3>
