@@ -2,11 +2,10 @@
 <h3 align="center">A passionate Front-end Developer and Java Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-
-
 <br>
 
-<br>
+
+
 - 🌱 I’m currently learning **react,DBMS,node.js**
 
 - 👨‍💻 All of my projects are available at [https://adarsh1630.github.io/Myportfolio.github.io/](https://adarsh1630.github.io/Myportfolio.github.io/)
