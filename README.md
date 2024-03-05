@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adarsh Sharma</h1>
 <h3 align="center">A passionate Front-end Developer and Java Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+
 
 <br>
-
-
-
 - 🌱 I’m currently learning **react,DBMS,node.js**
 
 - 👨‍💻 All of my projects are available at [https://adarsh1630.github.io/Myportfolio.github.io/](https://adarsh1630.github.io/Myportfolio.github.io/)
@@ -13,6 +11,15 @@
 - 💬 Ask me about **DSA,Java,C,Frontend development**
 
 - 📫 How to reach me **adarshsharma4627@gmail.com**
+
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh1630&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh1630" /> </p>
 
